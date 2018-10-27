@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Calculator</string>
+    <string name="myinfo">
+        <b>Mobarak Hosen Shakil</b> \n
+        Departmnet of \n
+        <b> Information &amp;amp; Communication Engineering </b>\n
+        Contact: Email: mhshakil_ice_iu@yahoo.com \n
+        Mobile: +8801752886859
+    </string>
+
+</resources>
